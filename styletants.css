@@ -1,0 +1,45 @@
+h1,h2{
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+}
+table{
+    border: 1px solid black;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+th, td{
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+th{
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+}
+nav{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+a#kasutaja{
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
+a#kasutaja:hover{
+    color: gray;
+    border: 2px solid gray;
+}
+form#lisa{
+    background-color: lightgrey;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+a#tha{
+    color: white;
+}
